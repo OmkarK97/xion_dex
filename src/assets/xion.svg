@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 2L30 16L16 30L2 16L16 2Z" fill="url(#xion_gradient)"/>
+  <defs>
+    <linearGradient id="xion_gradient" x1="2" y1="16" x2="30" y2="16" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E4FF"/>
+      <stop offset="1" stop-color="#0066FF"/>
+    </linearGradient>
+  </defs>
+</svg>
+
